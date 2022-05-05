@@ -1,0 +1,11 @@
+This is a pokemon style textbased game
+their are two roads NS and WE
+Thier is also a pokemart = M and a pokecenter = C
+Tallgrass = ,
+Trees = "
+    • n: Display the map immediately north of the current map.
+    • s: Display the map immediately south of the current map.
+    • e: Display the map immediately east of the current map.
+    • w: Display the map immediately west of the current map.
+    • f: to allow the user to fly to a certain grid point.
+    • q: Quit the game.
